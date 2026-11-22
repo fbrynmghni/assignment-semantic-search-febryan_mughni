@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+# Test / Experimental Scripts
+test_*.py
+main.py
+
+# UV / Python Configuration
+pyproject.toml
+uv.lock
+.python-version
