@@ -301,4 +301,3 @@ Repository: `assignment-semantic-search-febryan-mughni`
 ------------------------------------------------------------------------
 
 *Project ini merupakan prototype pembelajaran semantic search dan integrasi LLM sebagai persiapan untuk membangun sistem Retrieval-Augmented Generation (RAG).*
-# assignment-semantic-search-febryan_mughni
